@@ -1,13 +1,10 @@
 Maze Solver
 ==============
-This archive contains 3 files:
-1. maze-master.zip - source code
-2. Maze-0.0.1-SNAPSHOT-spring-boot.jar - executable jar 
-3. README.txt - instruction file
-Source code is also provided at https://github.com/nikkiywlau/maze
+This is the source code of a maze solver. 
+The maze solver is packaged as a executable jar, which can be found at below link: 
+https://github.com/nikkiywlau/maze/blob/master/target/Maze-0.0.1-SNAPSHOT-spring-boot.jar
 
-The maze solver is packaged as a executable jar. Please follow the following instruction to execute. 
-
+Please follow the following instruction to execute. 
 
 Instruction: 
 ==============
