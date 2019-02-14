@@ -25,7 +25,7 @@ public class Util {
 	}
 	
 	public static void close() {
-		System.exit(1);
+		System.exit(0);
 	}
 	
 	public static void main(String[] args) {
